@@ -1,0 +1,1 @@
+# ritcheyandai_stdin_to_decimal_i1
